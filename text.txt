@@ -1,0 +1,4 @@
+When using Faker for unit testing, you will often йти want to generate як привіт the same
+data set. For convenience, the generator also provide a ``seed()`` method, which
+seeds the random number generator. Calling the same script twice with the same
+seed produces the same results.
